@@ -17,6 +17,7 @@
             display:inline-block;
             height:100px;
             width:100px;
+			 border: none;
             border-radius:50px;
             margin-top:80px;
             background-color:red;
@@ -25,14 +26,17 @@
             display:inline-block;
             height:100px;
             width:100px;
+			 border: none;
             border-radius:50px;
             margin-top:80px;
             background-color: yellow;
         }
         .green{
+			
             display:inline-block;
             height:100px;
             width:100px;
+			 border: none;
             border-radius:50px;
             margin-top:80px;
             background-color: green;
