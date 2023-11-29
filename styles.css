@@ -11,22 +11,29 @@
             
             
         }
-        .box{
+       
+        #red{
+
             display:inline-block;
             height:100px;
             width:100px;
             border-radius:50px;
             margin-top:80px;
-           
-            
-        }
-        #box1{
-
             background-color:red;
         }
-        #box2{
+        #yellow{
+            display:inline-block;
+            height:100px;
+            width:100px;
+            border-radius:50px;
+            margin-top:80px;
             background-color: yellow;
         }
-        #box3{
+        #green{
+            display:inline-block;
+            height:100px;
+            width:100px;
+            border-radius:50px;
+            margin-top:80px;
             background-color: green;
         }
