@@ -12,7 +12,7 @@
             
         }
        
-        #red{
+        .red{
 
             display:inline-block;
             height:100px;
@@ -21,7 +21,7 @@
             margin-top:80px;
             background-color:red;
         }
-        #yellow{
+        .yellow{
             display:inline-block;
             height:100px;
             width:100px;
@@ -29,7 +29,7 @@
             margin-top:80px;
             background-color: yellow;
         }
-        #green{
+        .green{
             display:inline-block;
             height:100px;
             width:100px;
